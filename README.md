@@ -30,6 +30,11 @@ What things you need to Run the software
 
 
 # Running Catch
+<p>\Lan_Ids\bin\Debug\catch</p>
+
+after choosing device write this command to start all tools 
+
+<p>--start all</p>
 
 # Authors
 [abdurhman](https://twitter.com/mr_128bit)
