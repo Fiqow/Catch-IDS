@@ -1,5 +1,5 @@
 # Catch-IDS
-Catch is Host Based Intrusion Detection Systems Catch Mitm Attack Like Arp Sphoofing and Dhcp Sphoofing and Clear Text Protocols Data 
+Catch is Host Based Intrusion Detection Systems Catch Mitm Attack Like Arp Spoofing and Dhcp spoofing and Clear Text Protocols Data 
 
 
 <p align="left ">
