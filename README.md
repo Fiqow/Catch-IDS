@@ -36,6 +36,11 @@ after choosing device write this command to start all tools
 
 <p>--start all</p>
 
+# paid version
+ask for Paid Version catch with gui
+and Pay what you want
+contact us : a.dhom@yahoo.com 
+
 # Authors
 [abdurhman](https://twitter.com/mr_128bit)
 
