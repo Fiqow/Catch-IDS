@@ -36,10 +36,9 @@ after choosing device write this command to start all tools
 
 <p>--start all</p>
 
-# buy me a coffee
-
-paypal and skrill : a.dhom@yahoo.com 
-
+# for Support
+ 
+A.dhom@Yahoo.com
 
 # Authors
 [abdurhman](https://twitter.com/mr_128bit)
